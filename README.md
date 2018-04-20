@@ -13,9 +13,8 @@ This is a workflow for building simple web projects using Gulp.
 
 #### Install dependencies
 This workflow requires the following dependencies
-* Node.js with npm
-* SASS
-* Gulp.js
+* [Node.js](https://nodejs.org) with npm
+* [SASS](https://sass-lang.com/install)
 
 #### Clone this repository
 ```
@@ -25,8 +24,16 @@ git clone https://github.com/thelucho/simple-gulp-workflow.git your-project-name
 cd your-project-name
 ```
 
+#### Gulp Installation
+To use Gulp, you need to install it as a global module first throught NPM
+```
+npm install --global gulp
+```
+
 #### Install packages
-`npm install`
+```
+npm install
+```
 
 ## How to use
 Run `gulp` in the command line
