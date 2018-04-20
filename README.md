@@ -1,7 +1,7 @@
 # simple-gulp-workflow
 This is a workflow for building simple web projects using Gulp.
 
-##What it does
+## What it does
 * Compiles SCSS to CSS
 * Minify CSS
 * Autoprefixer CSS
@@ -9,7 +9,7 @@ This is a workflow for building simple web projects using Gulp.
 * Livereload BrowserSync
 * Image Optimize (Not in 'Default' task)
 
-##Getting Started
+## Getting Started
 
 1 Install dependencies
 This workflow requires the following dependencies
@@ -24,5 +24,5 @@ This workflow requires the following dependencies
 3. Install packages
 * npm install
 
-##How to use
+## How to use
 Run `gulp` in the command line
