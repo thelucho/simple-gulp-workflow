@@ -1,4 +1,4 @@
-# simple-gulp-workflow
+# Simple Gulp Workflow
 This is a workflow for building simple web projects using Gulp.
 
 ## What it does
