@@ -36,4 +36,4 @@ npm install
 ```
 
 ## How to use
-Run `gulp` in the command line
+Run `gulp` in the command line. Run `gulp imagenes` for images optimize.
