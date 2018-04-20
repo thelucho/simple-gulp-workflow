@@ -1,0 +1,23 @@
+@import 'colors';
+
+body {
+	background-color: $gris-oscuro;
+	& h1{
+		font-size: 35px;
+		color: $blanco;
+		text-align: center;
+	}
+
+	& p {
+		color: $blanco;
+	}
+}
+
+main {
+	display: flex;
+	justify-content: center;
+
+	& div {
+		background-color: gray;
+	}
+}
