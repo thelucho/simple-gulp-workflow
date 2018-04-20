@@ -18,8 +18,8 @@ This workflow requires the following dependencies
 * Gulp.js
 
 #### Clone this repository
-`git clone https://github.com/thelucho/simple-gulp-workflow.git your-project-name`
-`cd your-project-name`
+```git clone https://github.com/thelucho/simple-gulp-workflow.git your-project-name```
+```cd your-project-name```
 
 #### Install packages
 `npm install`
